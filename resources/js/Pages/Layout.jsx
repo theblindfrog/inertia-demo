@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import { Link, Head } from '@inertiajs/inertia-react'
 
 export default function Layout({ children }) {
