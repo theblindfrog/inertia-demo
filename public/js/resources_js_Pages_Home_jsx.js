@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_Pages_Home_jsx"],{
+
+/***/ "./resources/js/Pages/Home.jsx":
+/*!*************************************!*\
+  !*** ./resources/js/Pages/Home.jsx ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Layout */ \"./resources/js/Pages/Layout.jsx\");\n/* harmony import */ var _inertiajs_inertia_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @inertiajs/inertia-react */ \"./node_modules/@inertiajs/inertia-react/dist/index.js\");\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n\n\n\n\n\n\n\n\nvar Home = function Home(_ref) {\n  var time = _ref.time;\n  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.Fragment, {\n    children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_inertiajs_inertia_react__WEBPACK_IMPORTED_MODULE_2__.Head, {\n      title: \"Welcome\"\n    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(\"h1\", {\n      className: \"text-xl font-bold mb-4\",\n      children: \"Welcome to Inertia\"\n    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)(\"p\", {\n      children: [\"Hello, it's \", time]\n    })]\n  });\n};\n\nHome.layout = function (page) {\n  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_Layout__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    children: page\n  });\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Home);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvanMvUGFnZXMvSG9tZS5qc3guanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFBQTtBQUNBO0FBQ0E7QUFDQTs7Ozs7QUFFQSxJQUFNSyxJQUFJLEdBQUcsU0FBUEEsSUFBTyxPQUFjO0FBQUEsTUFBWEMsSUFBVyxRQUFYQSxJQUFXO0FBQ3ZCLHNCQUNJO0FBQUEsNEJBQ0ksdURBQUMsMERBQUQ7QUFBTSxXQUFLLEVBQUM7QUFBWixNQURKLGVBRUk7QUFBSSxlQUFTLEVBQUMsd0JBQWQ7QUFBQTtBQUFBLE1BRkosZUFHSTtBQUFBLGlDQUFnQkEsSUFBaEI7QUFBQSxNQUhKO0FBQUEsSUFESjtBQVFILENBVEQ7O0FBV0FELElBQUksQ0FBQ0UsTUFBTCxHQUFjLFVBQUFDLElBQUk7QUFBQSxzQkFBSSx1REFBQywrQ0FBRDtBQUFRLFlBQVEsRUFBRUE7QUFBbEIsSUFBSjtBQUFBLENBQWxCOztBQUVBLGlFQUFlSCxJQUFmIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vcmVzb3VyY2VzL2pzL1BhZ2VzL0hvbWUuanN4P2VjNDgiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gXCJyZWFjdFwiO1xuaW1wb3J0IExheW91dCBmcm9tIFwiLi9MYXlvdXRcIjtcbmltcG9ydCB7IEhlYWQgfSBmcm9tIFwiQGluZXJ0aWFqcy9pbmVydGlhLXJlYWN0XCI7XG5pbXBvcnQgeyBmb3JtYXQsIHBhcnNlIH0gZnJvbSBcImRhdGUtZm5zXCI7XG5cbmNvbnN0IEhvbWUgPSAoeyB0aW1lIH0pID0+IHtcbiAgICByZXR1cm4gKFxuICAgICAgICA8PlxuICAgICAgICAgICAgPEhlYWQgdGl0bGU9XCJXZWxjb21lXCIgLz5cbiAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9XCJ0ZXh0LXhsIGZvbnQtYm9sZCBtYi00XCI+V2VsY29tZSB0byBJbmVydGlhPC9oMT5cbiAgICAgICAgICAgIDxwPkhlbGxvLCBpdCdzIHt0aW1lfTwvcD5cbiAgICAgICAgICAgIHsvKiA8cD5IZWxsbywgaXQncyB7Zm9ybWF0KHBhcnNlKHRpbWUsICd5eXl5LU1NLWRkIEhIOm1tOnNzJywgbmV3IERhdGUoKSksIFwiaCAnbycnY2xvY2snXCIpIH08L3A+ICovfVxuICAgICAgICA8Lz5cbiAgICApO1xufTtcblxuSG9tZS5sYXlvdXQgPSBwYWdlID0+IDxMYXlvdXQgY2hpbGRyZW49e3BhZ2V9IC8+O1xuXG5leHBvcnQgZGVmYXVsdCBIb21lO1xuIl0sIm5hbWVzIjpbIlJlYWN0IiwiTGF5b3V0IiwiSGVhZCIsImZvcm1hdCIsInBhcnNlIiwiSG9tZSIsInRpbWUiLCJsYXlvdXQiLCJwYWdlIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/js/Pages/Home.jsx\n");
+
+/***/ })
+
+}]);

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[250],{7250:(e,t,l)=>{l.r(t),l.d(t,{default:()=>a});l(7294);var n=l(8599),s=l(1636),r=l(5893),c=function(e){var t=e.time;return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(s.Fb,{title:"Welcome"}),(0,r.jsx)("h1",{className:"text-xl font-bold mb-4",children:"Welcome to Inertia"}),(0,r.jsxs)("p",{children:["Hello, it's ",t]})]})};c.layout=function(e){return(0,r.jsx)(n.default,{children:e})};const a=c}}]);
+//# sourceMappingURL=250.js.map?id=a7683b37b1b0ff6ef2c0
