@@ -14,5 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return Inertia\Inertia::render('Home');
+    return Inertia\Inertia::render('Home', [
+        'time' => now()->format('Y-m-d H:i:s')
+    ]);
 });
