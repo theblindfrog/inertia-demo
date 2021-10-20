@@ -7,17 +7,7 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-(self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_Pages_Home_jsx"],{
-
-/***/ "./resources/js/Pages/Home.jsx":
-/*!*************************************!*\
-  !*** ./resources/js/Pages/Home.jsx ***!
-  \*************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var _Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Layout */ \"./resources/js/Pages/Layout.jsx\");\n/* harmony import */ var _inertiajs_inertia_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @inertiajs/inertia-react */ \"./node_modules/@inertiajs/inertia-react/dist/index.js\");\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n\n\n\n\n\n\n\nvar Home = function Home() {\n  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.Fragment, {\n    children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_inertiajs_inertia_react__WEBPACK_IMPORTED_MODULE_2__.Head, {\n      title: \"Welcome\"\n    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(\"h1\", {\n      className: \"text-xl font-bold mb-4\",\n      children: \"Welcome to Inertia\"\n    })]\n  });\n};\n\nHome.layout = function (page) {\n  return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_Layout__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    children: page\n  });\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Home);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvanMvUGFnZXMvSG9tZS5qc3guanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFBQTtBQUNBO0FBQ0E7Ozs7O0FBRUEsSUFBTUcsSUFBSSxHQUFHLFNBQVBBLElBQU8sR0FBTTtBQUNmLHNCQUNJO0FBQUEsNEJBQ0ksdURBQUMsMERBQUQ7QUFBTSxXQUFLLEVBQUM7QUFBWixNQURKLGVBRUk7QUFBSSxlQUFTLEVBQUMsd0JBQWQ7QUFBQTtBQUFBLE1BRko7QUFBQSxJQURKO0FBTUgsQ0FQRDs7QUFTQUEsSUFBSSxDQUFDQyxNQUFMLEdBQWMsVUFBQUMsSUFBSTtBQUFBLHNCQUFJLHVEQUFDLCtDQUFEO0FBQVEsWUFBUSxFQUFFQTtBQUFsQixJQUFKO0FBQUEsQ0FBbEI7O0FBRUEsaUVBQWVGLElBQWYiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvanMvUGFnZXMvSG9tZS5qc3g/ZWM0OCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgTGF5b3V0IGZyb20gXCIuL0xheW91dFwiO1xuaW1wb3J0IHsgSGVhZCB9IGZyb20gXCJAaW5lcnRpYWpzL2luZXJ0aWEtcmVhY3RcIjtcblxuY29uc3QgSG9tZSA9ICgpID0+IHtcbiAgICByZXR1cm4gKFxuICAgICAgICA8PlxuICAgICAgICAgICAgPEhlYWQgdGl0bGU9XCJXZWxjb21lXCIgLz5cbiAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9XCJ0ZXh0LXhsIGZvbnQtYm9sZCBtYi00XCI+V2VsY29tZSB0byBJbmVydGlhPC9oMT5cbiAgICAgICAgPC8+XG4gICAgKTtcbn07XG5cbkhvbWUubGF5b3V0ID0gcGFnZSA9PiA8TGF5b3V0IGNoaWxkcmVuPXtwYWdlfSAvPjtcblxuZXhwb3J0IGRlZmF1bHQgSG9tZTtcbiJdLCJuYW1lcyI6WyJSZWFjdCIsIkxheW91dCIsIkhlYWQiLCJIb21lIiwibGF5b3V0IiwicGFnZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/js/Pages/Home.jsx\n");
-
-/***/ }),
+(self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_Pages_Layout_jsx"],{
 
 /***/ "./resources/js/Pages/Layout.jsx":
 /*!***************************************!*\
