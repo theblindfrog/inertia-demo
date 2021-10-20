@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactUsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,3 +19,5 @@ Route::get('/', function () {
         'time' => now()->format('Y-m-d H:i:s')
     ]);
 });
+
+Route::get('/contact-us', [ContactUsController::class, 'index'])->name('contactus.index');
