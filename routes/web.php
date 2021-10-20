@@ -21,3 +21,4 @@ Route::get('/', function () {
 });
 
 Route::get('/contact-us', [ContactUsController::class, 'index'])->name('contactus.index');
+Route::post('/contact-us', [ContactUsController::class, 'store'])->name('contactus.store');
